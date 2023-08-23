@@ -1,5 +1,6 @@
 html {
-  background-image: url(./img/pinos.jpg)
+  background-image: url(./img/pinos.jpg);
+  background-repeat: no-repeat;
 }
 
 
